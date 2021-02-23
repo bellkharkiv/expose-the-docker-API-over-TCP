@@ -56,7 +56,8 @@ docker -H docker.k8s.***.com:2375 build -t test1 .
  
 
 ~/Downloads/***/git/dynamiq-cms-nodejs on  master! ⌚ 15:34:29
-$ docker -H docker.k8s.***.com:2375 images          
+$ docker -H docker.k8s.***.com:2375 images  
+
 REPOSITORY   TAG       IMAGE ID       CREATED         SIZE
 test1        latest    27238058e4c0   4 minutes ago   1.99GB
 test         latest    27238058e4c0   4 minutes ago   1.99GB
